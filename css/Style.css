@@ -1,0 +1,186 @@
+body {
+    background-image: url("paper-539779_960_720.jpg");
+} 
+
+@font-face {
+    font-family: 'ancient';
+    src: url('stonehen.ttf')format('truetype');
+}
+
+@font-face {
+    font-family: 'celtic';
+    src: url('CELTG___.TTF')format('truetype');
+}
+
+
+/*----------------MENU--------------------------*/
+.menu ul{
+	z-index:10;
+	display:inline-block;
+}
+
+.menu li {
+    margin:0px 25px 0px 0px;
+    float:left;
+    list-style:none;
+    font-size:1.2em;
+	font-family:celtic;
+}
+
+.menu .search{
+	float:right;
+    display:inline-block;
+	border:2px solid black;
+	box-shadow:6px 6px 3px black;
+	margin:15px 30px 0px 0px;
+	padding-left:1em;
+}
+.menu {
+	margin-top:.3em;
+    width:100%;
+    padding:10px 18px;
+    border-radius:3px;
+    background:#662200;
+}
+
+.menu a {
+    text-shadow:0px 1px 0px rgba(0,0,0,0.5);
+    color:#ffc61a;
+    transition:color linear 0.15s;
+	text-decoration: none;
+}
+ 
+.menu .current-item a {
+    color:red;
+	text-transform:uppercase;
+	text-decoration: none;
+}
+
+.menu a:hover{
+	color:#ffff66;
+}
+.search b:hover{
+	color:#ffff66;
+}
+/*----------------------SECTION---------------------*/
+
+section {
+	margin:1em 1em 0px 0px;
+    width:95%;
+    padding:10px 18px;
+    border-radius:3px;
+	border: 3px solid black;
+	font-size:1.5em;	
+}
+
+
+section	h1{
+	margin:1em 1em 0px 0px;
+    width:95%;
+    padding:10px 18px;
+    border-radius:3px;
+	border: 3px solid black;
+	font-size:1.5em;
+	text-align:center;
+	font-family:ancient;
+	}
+	
+/*-------------------ASIDE---------------------------*/
+
+aside {
+	margin:1em 0px 0px 0px;
+    padding:5px 10px;
+	border-radius:1em;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	width:20%;
+
+}
+
+.car li {
+    list-style:none;
+}
+
+.car{
+	color:white;
+}
+
+
+.civ_car{
+	
+	background-image:url("Civilisation.png");
+	color:white;
+	border:3px solid black;
+	background-size:100%;
+	
+}
+
+h2{
+	color:black;
+	font-family:celtic;
+	width:70%;
+	background-color: white;
+	border:3px solid black;
+	border-radius:1em;
+	text-align:center;
+	margin:auto;
+	margin-top:10px;
+}
+
+.recherche{
+	color:black;
+	font-family:celtic;
+	width:70%;
+	border:3px solid black;
+	border-radius:1em;
+	text-align:center;
+	margin:auto;
+	margin-top:10px;
+}
+
+.avantage li{
+	list-style: disc ;
+}
+
+.unit{
+	color:white;
+	border:3px solid black;
+	background-image:url("Unit.png");
+	background-size:100%;
+}
+
+.org{
+	display:flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+.unit_car{
+	font-size:.7em;
+	width:40%;
+	color:white;
+}
+
+.bat{
+	background-image:url("Batiment.png");	
+	color:black;
+	background-size:100%;
+	border:3px solid black;
+}
+
+.tech{
+	background-image:url("Technologie.png");	
+	color:black;
+	border:3px solid black;
+	background-size:100%;
+}
+/*---------------------FOOTER-----------------------*/
+footer{
+    background:#662200;
+	margin-top:0.5em;
+    width:100%;
+    padding:10px 18px;
+    border-radius:3px;	
+	color:white;
+}

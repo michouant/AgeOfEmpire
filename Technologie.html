@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+
+<head>
+	<title>Age of Empire 2</title>
+	
+		    <!--  fichier css -->
+		<link rel="stylesheet" href="css/bootstrap.css">
+		<link rel="stylesheet" href="css/Style.css">
+		
+        <!--  fichier js -->
+		<script type='text/javascript' src="js/jquery.min.js"></script>
+		<script type="text/javascript" src="js/angular.js"></script>
+		<script type='text/javascript' src="js/script.js"></script>
+		<script type='text/javascript' src="js/app.js"></script>
+	
+</head>
+
+<body>
+		<header>
+		
+		<img src="image/HD-edition.jpg" alt="Age of Empires 2" height=400px width=100%>
+		
+		<nav class=menu>
+			<ul>
+				<li><a href="Accueil.html">Accueil</a></li>
+				<li><a href="Civilisation.html">Civilisation</a></li>
+				<li><a href="Unité.html">Unité</a></li>
+				<li><a href="Batîment.html">Batîment</a></li>
+				<li class=current-item><a href="#">Technologie</a></li>
+				<li><a href="ForumFAQ.html">Forum/FAQ</a></li>
+			</ul>
+			
+			<div class="search">
+				<b>Recherche</b>
+				<input type="text" ng-model="test">
+			</div>
+		</nav>	
+		
+		</header>
+		
+		<section>
+			<h1>Technologie</h1>
+			
+			<div class ="main" ng-app="store" ng-controller="Technologie_aoe" >
+				<div ng-repeat="p in myData" >
+					<div class=tech>
+					<h2>{{p.Nom}}</h2>
+					<div class=org>
+						<aside>
+							<ul class=car>
+								<li>Coûts: {{p.Cout}} </li>
+							</ul>
+						</aside>
+						<aside>
+							<div class=car>Description: {{p.Description}}</div>
+						</aside>
+						</div>
+						</br>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</section>
+		
+		<footer>
+		</br>
+			<p>Toutes données trouvées sont en libre accès. Nous ne sommes en aucun cas les propriétaires des données présentées sur ce site.</p>
+		</br>
+		</footer>
+</body>

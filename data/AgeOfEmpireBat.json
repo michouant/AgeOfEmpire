@@ -1,0 +1,301 @@
+[
+   {
+       "Nom":"Caserne",
+       "Bois":175,
+	   "Commentaire":"Utilisée pour créer et améliorer l'infanterie.",
+	   
+       "PV":1200,
+	   "Attaque":0,
+       "Armure":0,
+       "Armurevsjet":0,
+       "Portee":0,
+	   "Age":1
+   },
+   {
+       "Nom":"Port",
+       "Bois":150,
+	   "Commentaire":"Utilisée pour construire et améliorer les navire, recvoir la nourriture des bateaux de peche et commercer avec les autres joueurs par voie maritime.",
+	   
+       "PV":1800,
+	   "Attaque":0,
+       "Armure":0,
+       "Armurevsjet":7,
+       "Portee":0,
+	   "Age":1
+   },
+   {
+       "Nom":"Poste avancé",
+       "Bois":25,
+	   "Pierre":5,
+	   "Commentaire":"Point dobservation fixe qui fournit un avertissement lors d'activité ennemis dans les environs. Les postes avancés ne vous permettent pas d'attaquer ou de rassembler vos unités à l'intérieur.",
+	   
+       "PV":500,
+	   "Attaque":0,
+       "Armure":0,
+       "Armurevsjet":0,
+       "Portee":0,
+	   "Age":1
+   },
+   {
+       "Nom":"Palissade",
+       "Bois":2,
+	   "Commentaire":"Mur en bois, fcile et économique à construire. Ralentit vos ennemis et vous prévient de leur approche",
+	   
+       "PV":250,
+	   "Attaque":0,
+       "Armure":2,
+       "Armurevsjet":5,
+       "Portee":0,
+	   "Age":1
+   },
+   {
+       "Nom":"Habitation",
+       "Bois":25,
+	   "Commentaire":"Chaque habitation permet 5 unités. Votre population atuelle/minimale est affichée en haut de l'écran",
+	   
+       "PV":550,
+	   "Attaque":0,
+       "Armure":0,
+       "Armurevsjet":7,
+       "Portee":0,
+	   "Age":1
+   },
+   {
+       "Nom":"Forum",
+       "Bois":275,
+	   "Pierre":100,
+	   "Commentaire":"Utilisée pour déposer toutes les ressources, avancer à l'âge suivant et améliorer les bâtiments et créer des villageois. Les unités peuvent s'y réfugier pour être protégées. Ne peut pas être converti par les moines ennemis.",
+	   
+       "PV":2400,
+	   "Attaque":5,
+       "Armure":3,
+       "Armurevsjet":5,
+       "Portee":6,
+	   "Age":1,
+	   "Garnison":15
+   },
+   {
+       "Nom":"Camp de mineurs",
+       "Bois":100,
+	   "Commentaire":"Utilisée pour déposer la pierre et l'or et dévelloper l'exploitation d'or et de pierre.Construire près de mines de pierre et d'or pour amasser ces ressources plus rapidement.",
+	   
+       "PV":600,
+	   "Attaque":0,
+       "Armure":0,
+       "Armurevsjet":7,
+       "Portee":0,
+	   "Age":1
+   },
+     {
+       "Nom":"Camp de bûcherons",
+       "Bois":100,
+	   "Commentaire":"Utilisée pour déposer du bois et dévelloper le ramassage de bois. Construire près des forêts pour amasser du bois plus rapidement.",
+	   
+       "PV":600,
+	   "Attaque":0,
+       "Armure":0,
+       "Armurevsjet":7,
+       "Portee":0,
+	   "Age":1
+   },
+     {
+       "Nom":"Moulin",
+       "Bois":100,
+	   "Commentaire":"Utilisée pour déposer de la nourriture et dévelloper les fermes.Construire près de baies ou autres sources de nourriture pour en amasser plus rapidement.",
+	   
+       "PV":600,
+	   "Attaque":0,
+       "Armure":0,
+       "Armurevsjet":7,
+       "Portee":0,
+	   "Age":1
+   },
+     {
+       "Nom":"Ferme",
+       "Bois":60,
+	   "Commentaire":"Source de nourriture renouvelable. Fournit une quantité limitée de nourriture; après on doit la reconstruire. Un seul villageois peut travailler dans une ferme. Les moines ne peuvent les convertir",
+	   
+       "PV":480,
+	   "Attaque":0,
+       "Armure":0,
+       "Armurevsjet":0,
+       "Portee":0,
+	   "Age":1
+   },
+     {
+       "Nom":"Camp de tir à l'arc",
+       "Bois":175,
+	   "Commentaire":"Utilisée pour créer et améliorer les archers.",
+	   
+       "PV":1500,
+	   "Attaque":0,
+       "Armure":1,
+       "Armurevsjet":8,
+       "Portee":0,
+	   "Garnison":10,
+	   "Age":2
+   },
+   {
+          "Nom":"Ecurie",
+       "Bois":175,
+	   "Commentaire":"Utilisée pour créer et améliorer la cavalerie.",
+	   
+       "PV":1500,
+	   "Attaque":0,
+       "Armure":1,
+       "Armurevsjet":8,
+       "Portee":0,
+	   "Garnison":10,
+	   "Age":2
+	},
+   {
+       "Nom":"Tour de guet",
+       "Bois":25,
+	   "Pierre":125,
+	   "Commentaire":"Tour de pierre de base. Attaque automatiquement les unités et bâtiments ennemis situé dnas sa portée. Vous pouvez y placer une garnison d'unités pour les protéger et accroître leur force d'attaque.",
+	   
+       "PV":1020,
+	   "Attaque":5,
+       "Armure":1,
+       "Armurevsjet":7,
+       "Portee":8,
+	   "Age":2,
+	   "Garnison":5
+   },
+   {
+       "Nom":"Porte",
+	   "Pierre":30,
+	   "Commentaire":"Peut être construite dans les murs existants. Vous et vos alliés pouvez manuellement ouvrir et fermer cette porte.",
+	   
+       "PV":1375,
+	   "Age":2
+   },
+   {
+       "Nom":"Mur de pierre",
+	   "Pierre":5,
+	   "Commentaire":"Plus solide que le mur en palissade mais plus cher. Ralentit vos ennemis pour vous permettre de les repousser.",
+	   
+       "PV":900,
+	   "Attaque":0,
+       "Armure":8,
+       "Armurevsjet":10,
+       "Portee":0,
+	   "Age":2
+   },
+   {
+       "Nom":"Forgeron",
+       "Bois":150,
+	   "Commentaire":"Utilisée pour améliorer l'infanterie, les archers, la cavalerie, les tours, les forums, les châteaux et les drakkars.",
+	   
+       "PV":1800,
+	   "Attaque":0,
+       "Armure":0,
+       "Armurevsjet":7,
+       "Portee":0,
+	   "Age":2
+   },
+      {
+       "Nom":"Marché",
+       "Bois":175,
+	   "Commentaire":"Utilisée pour acheter et vendre des ressources, commercer avc les autres joueurs pas voie terrestre et develloper le commerce.",
+	   
+       "PV":1800,
+	   "Attaque":0,
+       "Armure":1,
+       "Armurevsjet":8,
+       "Portee":0,
+	   "Age":2
+   },
+   {
+       "Nom":"Tour de garde",
+       "Bois":25,
+	   "Pierre":125,
+	   "Commentaire":"Plus solide que la tour de guet, et capacitéde combat accrue. Vous pouvez y placer une garnison d'unités pour les protéger et accroître leur force d'attaque.",
+	   
+       "PV":1500,
+	   "Attaque":7,
+       "Armure":2,
+       "Armurevsjet":8,
+       "Portee":8,
+	   "Age":3,
+	   "Garnison":5
+   },
+      {
+       "Nom":"Mur fortifié",
+	   "Pierre":5,
+	   "Commentaire":"Plus solide que le mur de pierre. Difficile à percer sans armes de siège. L'amélioration des murs fortifiés augmente les PV de coup de vos portes.",
+	   
+       "PV":3000,
+	   "Attaque":0,
+       "Armure":12,
+       "Armurevsjet":12,
+       "Portee":0,
+	   "Age":3
+   },
+   {
+       "Nom":"Monatère",
+       "Bois":175,
+	   "Commentaire":"Utilisé pour créer et améliorer les moines. Les reliques rassemblées génèrent de l'or. Ne peut pas être converti par les moines ennemis.",
+	   
+       "PV":2100,
+	   "Attaque":0,
+       "Armure":0,
+       "Armurevsjet":7,
+       "Portee":0,
+	   "Age":3,
+	   "Garnison":10
+   },
+    {
+       "Nom":"Château",
+       "Pierre":650,
+	   "Commentaire":"Utilisé pour créer Vos unités uniques, construire les trébuchets et améliorer les villageois et bâtiments. Ne peut pas être converti par les moines ennemis.",
+	   
+       "PV":4800,
+	   "Attaque":11,
+       "Armure":8,
+       "Armurevsjet":11,
+       "Portee":8,
+	   "Age":3,
+	   "Garnison":20
+   },
+    {
+       "Nom":"Atelier de siège",
+       "Bois":200,
+	   "Commentaire":"Utilisé pour construire les armes de siège.",
+	   
+       "PV":1800,
+	   "Attaque":0,
+       "Armure":2,
+       "Armurevsjet":9,
+       "Portee":0,
+	   "Age":3,
+	   "Garnison":10
+   },
+    {
+       "Nom":"Université",
+       "Bois":200,
+	   "Commentaire":"Utilisé pour améliorer les bâtiments, unités à projectiles.",
+	   
+       "PV":2100,
+	   "Attaque":0,
+       "Armure":2,
+       "Armurevsjet":9,
+       "Portee":0,
+	   "Age":3,
+	   "Garnison":0
+   },
+    {
+       "Nom":"Merveille",
+       "Bois":1000,
+	   "Pierre":1000,
+	   "Or":1000,
+	   "Commentaire":"Construire une merveille du monde prouve la supériorité de votre civilisation. La construction  d'une merveille qui subsiste pendant un certain temps est l'une des manière de gagner la partie. Ne peut être convertie par les moines ennemis",
+	   
+       "PV":4800,
+	   "Attaque":0,
+       "Armure":3,
+       "Armurevsjet":10,
+       "Portee":0,
+	   "Age":4
+   }
+]
