@@ -1,6 +1,5 @@
 
 
-/*
 var app = angular.module('store', []);
 
 app.controller('Unit_aoe', function($scope, $http) {
@@ -9,7 +8,7 @@ app.controller('Unit_aoe', function($scope, $http) {
       $scope.myData = response.nom;
   });
 });
-*/
+
 
 var unit=[
    {
@@ -344,12 +343,6 @@ var bat=[
 	},
  ];
 
-
- var app = angular.module('store', []);
-
-app.controller('Unit_aoe', function($scope) {
-      $scope.myData = unit;
-});
 
 
 app.controller('Batiment_aoe', function($scope) {
