@@ -23,29 +23,30 @@
 			<ul>
 				<li><a href="Accueil.html">Accueil</a></li>
 				<li><a href="Civilisation.html">Civilisation</a></li>
-				<li><a href="Unite.html">UnitÃ©</a></li>
-				<li class=current-item><a href="#">Batiment</a></li>
+				<li><a href="Unité.html">Unité</a></li>
+				<li class=current-item><a href="#">Batîment</a></li>
 				<li><a href="Technologie.html">Technologie</a></li>
+				<li><a href="ForumFAQ.html">Forum/FAQ</a></li>
 			</ul>
 			
 			<div class="search">
 				<b>Recherche</b>
-				<input type="text" ng-model="test">
+				<input type="text" ng-model="test" >
 			</div>
 		</nav>	
 		
 		</header>
 		
 		<section>
-			<h1>BatÃ®ment</h1>
+			<h1>Batîment</h1>
 			<div class ="main" ng-app="store" ng-controller="Batiment_aoe" >
-			<div ng-repeat="p in myData" >
+			<div ng-repeat="p in myData | filter:test track by $index " >
 				<div class=bat >
 				<h2>{{ p.Nom }}</h2>
 					<div class=org>
 						<aside>
 						<ul class=car>
-							<li>Couts: </li>
+							<li>Coûts: </li>
 							</br>
 								<li>Pierre: {{ p.Pierre }}</li>
 								<li>Or: {{ p.Or }}</li>
@@ -62,8 +63,8 @@
 							<li>Points de coup: {{ p.PV }}</li>
 							<li>Attaque: {{ p.Attaque }}</li>
 							<li>Armure: {{ p.Armure }}</li>
-							<li>Protection perÃ§age: {{ p.Armurevsjet }}</li>
-							<li>PortÃ©e: {{ p.Portee }}</li>
+							<li>Protection perçage: {{ p.Armurevsjet }}</li>
+							<li>Portée: {{ p.Portee }}</li>
 							<li>Garnison: {{ p.Garnison }}</li>
 							<li>Age: {{p.Age}}</li>
 						</ul>
@@ -77,7 +78,7 @@
 		
 		<footer>
 		</br>
-			<p>Toutes donnÃ©es trouvÃ©es sont en libre accÃ¨s. Nous ne sommes en aucun cas les propriÃ©taires des donnÃ©es prÃ©sentÃ©es sur ce site.</p>
+			<p>Toutes données trouvées sont en libre accès. Nous ne sommes en aucun cas les propriétaires des données présentées sur ce site.</p>
 		</br>
 		</footer>
 

@@ -25,8 +25,8 @@
 			<ul>
 				<li><a href="Accueil.html">Accueil</a></li>
 				<li><a href="Civilisation.html">Civilisation</a></li>
-				<li class=current-item><a href="#">UnitÃ©</a></li>
-				<li><a href="Batiment.html">BatÃ®ment</a></li>
+				<li class=current-item><a href="#">Unité</a></li>
+				<li><a href="Batiment.html">Batîment</a></li>
 				<li><a href="Technologie.html">Technologie</a></li>
 				<li><a href="ForumFAQ.html">Forum/FAQ</a></li>
 			</ul>
@@ -40,27 +40,21 @@
 		</header>
 		
 		<section>
-			<h1>UnitÃ©</h1>
+			<h1>Unité</h1>
 			</br>
 			
 			<div class ="main" ng-app="store" ng-controller="Unit_aoe" >
 			
 			<aside class=recherche>
-			Recherche AvancÃ©
+			Recherche Avancé
 			</br>
-			Afficher les dÃ©tails des unitÃ©s 
+			Afficher les détails des unités 
 			<input type="checkbox" ng-model="details">
 			
-				<select ng-model="Types">
-					<option value="Infanterie">Infanterie</option>
-					<option value="Archer">Archer</option>
-					<option value="Cavalerie">Cavalerie</option>
-					<option value="Arme de siege">Arme de siege</option>
-				</select>
 
 			</aside>
 			
-				<div ng-repeat="p in myData " >
+				<div ng-repeat="p in myData | filter:test track by $index " >
 					<div class=unit>
 					<h2>{{ p.Nom }}</h2> 
 						<div class=org>
@@ -69,7 +63,7 @@
 									<li><img src="image/unit_logos/{{ p.Nom }}.jpg"> </li>
 									<li>Type: {{ p.Type }}</li>
 										</br>
-									<h3>CoÃ»ts:</h3>
+									<h3>Coûts:</h3>
 									<li>Nourriture: {{ p.Nourriture }}</li>
 									<li>Or: {{ p.Or }}</li>
 									<li>Bois: {{ p.Bois }}</li>
@@ -94,7 +88,7 @@
 										<li>Vitesse de deplacement: {{ p.Vitesse }}</li>
 										<li>Batiments de creation: {{ p.Batiment }}</li>
 										<li>Ligne de mire: {{ p.Lignedemire }}</li>
-										<li>Vitesse d attaque: {{ p.Vitessedattaque}}</li>
+										<li>Vitesse d'attaque: {{ p.Vitessedattaque}}</li>
 										<li>Evolution:{{ p.Evolution }}</li>
 										<li>Fort contre: 
 										<ul class=avantage>
@@ -118,7 +112,7 @@
 		
 		<footer>
 		</br>
-			<p>Toutes donnÃ©es trouvÃ©es sont en libre accÃ¨s. Nous ne sommes en aucun cas les propriÃ©taires des donnÃ©es prÃ©sentÃ©es sur ce site.</p>
+			<p>Toutes données trouvées sont en libre accès. Nous ne sommes en aucun cas les propriétaires des données présentées sur ce site.</p>
 		</br>
 		</footer>
 
