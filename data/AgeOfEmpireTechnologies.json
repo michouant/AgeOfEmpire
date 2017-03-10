@@ -1,12 +1,12 @@
 [{
 	"Nom": "Ville de surveillance",
 	 "Cout": "75 nourritures",
-	"Description": "B‚timent LOS +4"
+	"Description": "B√¢timent LOS +4"
 },
 {
 	"Nom": "Patrouille de la ville",
 	"Cout": "300 nourritures 200 or",
-	"Description": "B‚timent LOS +4"
+	"Description": "B√¢timent LOS +4"
 },
 {
 	"Nom": "Grue de tapis roulant",
@@ -14,42 +14,42 @@
 	"Description": "Les villageois construisent 20% plus vite"
 },
 {
-	"Nom": "MaÁonnerie",
+	"Nom": "Ma√ßonnerie",
 	"Cout": "150 nourritures 175 bois",
-	"Description": "B‚timents + 10% HP et + 1 / + 1 armure"
+	"Description": "B√¢timents + 10% HP et + 1 / + 1 armure"
 },
 {
 	"Nom": "Architecture",
 	"Cout": "300 nourritures 200 bois",
-	"Description": "B‚timents + 10% HP et + 1 / + 1 armure"
+	"Description": "B√¢timents + 10% HP et + 1 / + 1 armure"
 },
 {
 	"Nom": "Cloisons",
 	"Cout": "400 nourritures 400 bois",
-	"Description": "Ch‚teau HP + 21%"
+	"Description": "Ch√¢teau HP + 21%"
 },
 {
 	"Nom": "Brouette",
 	"Cout": "75 nourritures 50 bois",
-	"Description": "Vitesse du villageois + 10%, capacitÈ de charge + 25%"
+	"Description": "Vitesse du villageois + 10%, capacit√© de charge + 25%"
 },
 {
-	"Nom": "Panier ‡ main",
+	"Nom": "Panier √† main",
 	"Cout": "300 nourritures 200 bois",
-	"Description": "Vitesse du villageois + 10%, capacitÈ de charge + 50%"
+	"Description": "Vitesse du villageois + 10%, capacit√© de charge + 50%"
 },
 {
-	"Nom": "Axe ‡ double bit",
+	"Nom": "Axe √† double bit",
 	"Cout": "100 nourritures 50 bois",
 	"Description": "Les villageois coupent le bois 20% plus vite"
 },
 {
-	"Nom": "Scie ‡ arc",
+	"Nom": "Scie √† arc",
 	"Cout": "150 nourritures 100 bois",
 	"Description": "Les villageois coupent le bois 20% plus vite"
 },
 {
-	"Nom": "Scie ‡ deux mains",
+	"Nom": "Scie √† deux mains",
 	"Cout": "300 nourritures 200 bois",
 	"Description": "Les villageois coupent le bois 10% plus vite"
 },
@@ -61,7 +61,7 @@
 {
 	"Nom": "Charrue lourde",
 	"Cout": "125 nourritures 125 bois",
-	"Description": "Fermes +125 nourritures, Villages +1 capacitÈ de transport nourritures"
+	"Description": "Fermes +125 nourritures, Villages +1 capacit√© de transport nourritures"
 },
 {
 	"Nom": " Rotation des cultures ",
@@ -74,12 +74,12 @@
 	"Description": " Les villageois exploitent l'or 15% plus rapidement "
 },
 {
-	"Nom": " Puits ‡ mines d'or ",
+	"Nom": " Puits √† mines d'or ",
 	"Cout": " 200 nourritures 150 bois ",
 	"Description": " Les villageois exploitent l'or 15% plus rapidement "
 },
 {
-	"Nom": " Exploitation miniËre",
+	"Nom": " Exploitation mini√®re",
 	"Cout": " 100 nourritures 75 bois ",
 	"Description": " Les villageois tuent la pierre 15% plus vite"
 },
@@ -91,12 +91,12 @@
 {
 	"Nom": " Cartographie",
 	"Cout": " 100 nourritures 100 or",
-	"Description": " Voir les alliÈs 'LOS"
+	"Description": " Voir les alli√©s 'LOS"
 },
 {
 	"Nom": " Caravane",
 	"Cout": " 200 nourritures 200 or",
-	"Description": " Chariots commerciaux et commerce Cogs dÈplacent 50% plus vite"
+	"Description": " Chariots commerciaux et commerce Cogs d√©placent 50% plus vite"
 },
 {
 	"Nom": " Monnaie",
@@ -116,30 +116,30 @@
 {
 	"Nom": " Filets maillants",
 	"Cout": " 150 nourritures 200 or",
-	"Description": " Les bateaux de pÍche travaillent 25% plus vite"
+	"Description": " Les bateaux de p√™che travaillent 25% plus vite"
 },
 {
 	"Nom": " Rachat",
 	"Cout": " 475 or",
-	"Description": " Les moines peuvent convertir la plupart des b‚timents et des unitÈs de siËge "
+	"Description": " Les moines peuvent convertir la plupart des b√¢timents et des unit√©s de si√®ge "
 },
 {
 	"Nom": " Expiation",
 	"Cout": " 325 or",
-	"Description": " Les moines peuvent convertir díautres moines"
+	"Description": " Les moines peuvent convertir d‚Äôautres moines"
 },
 {
-	"Nom": " PhytothÈrapie",
+	"Nom": " Phytoth√©rapie",
 	"Cout": " 350 or",
-	"Description": ´ Garnisons guÈrissent 4 fois plus vite"
+	"Description": " Garnisons gu√©rissent 4 fois plus vite"
 },
 {
-	"Nom": "HÈrÈsie",
+	"Nom": "H√©r√©sie",
 	"Cout": "1000 or",
-	"Description": "Les unitÈs converties par des moines ennemis meurent au lieu de les rejoindre"
+	"Description": "Les unit√©s converties par des moines ennemis meurent au lieu de les rejoindre"
 },
 {
-	"Nom": "SaintetÈ",
+	"Nom": "Saintet√©",
 	"Cout": "120 or",
 	"Description": "Moines +15 HP"
 },
@@ -151,22 +151,22 @@
 {
 	"Nom": "Foi",
 	"Cout": "750 nourritures 1000 or",
-	"Description": "Les unitÈs sont plus difficiles ‡ convertir par les moines ennemis"
+	"Description": "Les unit√©s sont plus difficiles √† convertir par les moines ennemis"
 },
 {
-	"Nom": "…clairage",
+	"Nom": "√âclairage",
 	"Cout": "120 or",
 	"Description": "Vitesse de rajeunissement du moine + 50%"
 },
 {
 	"Nom": "Impression par blocs",
 	"Cout": "200 or",
-	"Description": "PortÈe de conversion Moines +3"
+	"Description": "Port√©e de conversion Moines +3"
 },
 {
-	"Nom": "ThÈocratie",
+	"Nom": "Th√©ocratie",
 	"Cout": "200 or",
-	"Description": "Un seul moine dans un groupe doit se reposer aprËs une conversion"
+	"Description": "Un seul moine dans un groupe doit se reposer apr√®s une conversion"
 },
 {
 	"Nom": "suivi",
@@ -181,7 +181,7 @@
 {
 	"Nom": "Incendie volontaire",
 	"Cout": "150 nourritures 50 or",
-	"Description": "Infanterie +2 attaques contre les b‚timents"
+	"Description": "Infanterie +2 attaques contre les b√¢timents"
 },
 {
 	"Nom": "Forgeage",
@@ -189,7 +189,7 @@
 	"Description": "Infanterie / cavalerie attaque +1"
 },
 {
-	"Nom": "CoulÈe de fer",
+	"Nom": "Coul√©e de fer",
 	"Cout": "220 nourritures 120 or",
 "Description": " Infanterie / cavalerie attaque +1"
 },
@@ -199,24 +199,24 @@
 	"Description": " Infanterie / attaque de cavalerie +2"
 },
 {
-	"Nom": " Armure de mailles graduÈe",
+	"Nom": " Armure de mailles gradu√©e",
 	"Cout": "100 nourritures",
 	"Description": " Armure d'infanterie + 1 / + 1"
 },
 {
-	"Nom": "Armure de mailles chainÈe",
+	"Nom": "Armure de mailles chain√©e",
 	"Cout": "200 nourritures 100 or",
 	"Description": " Armure d'infanterie + 1 / + 1"
 },
 {
-	"Nom": "Armure de maille plaquÈe",
+	"Nom": "Armure de maille plaqu√©e",
 	"Cout": "300 nourritures 150 or",
 	"Description": " Armure d'infanterie + 1 / + 2"
 },
 {
 	"Nom": "Anneau de pouce ",
 	"Cout": "300 nourritures 250 bois",
-	"Description": "Archers et archers de cavalerie tirent plus vite et avec prÈcision de 100%","
+	"Description": "Archers et archers de cavalerie tirent plus vite et avec pr√©cision de 100%","
 },
 {
 	"Nom": "Parthian Tactics"
@@ -229,17 +229,17 @@
 	"Description": ""
 },
 {
-	"Nom": "FlËche de Bodkin",
+	"Nom": "Fl√®che de Bodkin",
 	"Cout": "200 nourritures 100 or",
-	"Description": "Archers, archers de cavalerie, galËres, ch‚teaux et tours +1 portÈe et attaque"
+	"Description": "Archers, archers de cavalerie, gal√®res, ch√¢teaux et tours +1 port√©e et attaque"
 },
 {
 	"Nom": "Remontant",
 	"Cout": "300 nourritures 200 or",
-	"Description": "Archers, archers de cavalerie, galËres, ch‚teaux et tours +1 portÈe et attaque"
+	"Description": "Archers, archers de cavalerie, gal√®res, ch√¢teaux et tours +1 port√©e et attaque"
 },
 {
-	"Nom": "Armure d'archer rembourrÈe",
+	"Nom": "Armure d'archer rembourr√©e",
 	"Cout": "100 nourritures",
 	"Description": "Archer et Cavalerie Archer armure + 1 / + 1"
 },
@@ -256,17 +256,17 @@
 {
 	"Nom": "Balistique",
 	"Cout": "300 bois 175 or",
-	"Description": "Archers, archers de cavalerie, GalËres , Ch‚teaux, et Towers feu avec plus de prÈcision sur des cibles en mouvement"
+	"Description": "Archers, archers de cavalerie, Gal√®res , Ch√¢teaux, et Towers feu avec plus de pr√©cision sur des cibles en mouvement"
 },
 {
 	"Nom": "Plancher chauffant",
 	"Cout": "350 nourritures 100 or",
-	"Description": "Tours + 125% et Ch‚teaux + 25% attaque contre les navires"
+	"Description": "Tours + 125% et Ch√¢teaux + 25% attaque contre les navires"
 },
 {
 	"Nom": "Trou de meurtre",
 	"Cout": "200 nourritures 100 pierres",
-	"Description": "…limine portÈe minimale de tous les b‚timents sauf Bombard Towers"
+	"Description": "√âlimine port√©e minimale de tous les b√¢timents sauf Bombard Towers"
 },
 {
 	"Nom": " Arrowslits",
@@ -276,17 +276,17 @@
 {
 	"Nom": "Chimie",
 	"Cout": "300 nourritures 200 or",
-	"Description": "UnitÈs de missiles (y compris le siËge) +1 attaque, prÈrequis pour non uniques unitÈs de poudre"
+	"Description": "Unit√©s de missiles (y compris le si√®ge) +1 attaque, pr√©requis pour non uniques unit√©s de poudre"
 },
 {
-	"Nom": "IngÈnieurs Siege",
+	"Nom": "Ing√©nieurs Siege",
 	"Cout": "500 nourritures 600 bois",
-	"Description": "Les armes de siËge +1 gamme (sauf Rams ) et + 20% attaque contre les b‚timents ( Petards + 40%)"
+	"Description": "Les armes de si√®ge +1 gamme (sauf Rams ) et + 20% attaque contre les b√¢timents ( Petards + 40%)"
 },
 {
-	"Nom": "LignÈes de sang",
+	"Nom": "Lign√©es de sang",
 	"Cout": "150 nourritures 100 or",
-	"Description": "UnitÈs montÈes +20 HP"
+	"Description": "Unit√©s mont√©es +20 HP"
 },
 {
 	"Nom": "Agriculture",
@@ -299,17 +299,17 @@
 	"Description": "Infanterie / cavalerie attaque +1"
 },
 {
-	"Nom": "CoulÈe de fer",
+	"Nom": "Coul√©e de fer",
 	"Cout": "220 nourritures 120 nourritures",
 	"Description": "Infanterie / cavalerie attaque +1"
 },
 {
-	"Nom": "Armure de barde ‡ l'Èchelle",
+	"Nom": "Armure de barde √† l'√©chelle",
 	"Cout": "150 nourritures",
 	"Description": "Armure de cavalerie + 1 / + 1"
 },
 {
-	"Nom": "Armure de bardage de la chaÓne",
+	"Nom": "Armure de bardage de la cha√Æne",
 	"Cout": "250 nourritures 150 or",
 	"Description": "Armure de cavalerie + 1 / + 1"
 },
@@ -321,52 +321,52 @@
 {
 	"Nom": "Careening",
 	"Cout": "250 nourritures 150 or",
-	"Description": "Navire armure +1, Transport Navire capacitÈ +5"
+	"Description": "Navire armure +1, Transport Navire capacit√© +5"
 },
 {
-	"Nom": "Cale sËche",
+	"Nom": "Cale s√®che",
 	"Cout": "600 nourritures 400 or",
-	"Description": "Vitesse du bateau + 15%, CapacitÈ du navire de transport +10"
+	"Description": "Vitesse du bateau + 15%, Capacit√© du navire de transport +10"
 },
 {
 	"Nom": "Charpentier",
 	"Cout": "1000 nourritures 300 or",
-	"Description": "ExpÈdiÈ en bois Cout -20% et vitesse de crÈation -35%"
+	"Description": "Exp√©di√© en bois Cout -20% et vitesse de cr√©ation -35%"
 },
 {
-	"Nom": "MÈtier ‡ tisser",
+	"Nom": "M√©tier √† tisser",
 	"Cout": "50 or",
 	"Description": "Villageois HP +15, armure + 1 / + 2"
 },
 {
-	"Nom": "¬ge fÈodal",
+	"Nom": "√Çge f√©odal",
 	"Cout": "500 nourritures",
-	"Description": "Avance vers l'‚ge fÈodal"
+	"Description": "Avance vers l'√¢ge f√©odal"
 },
 {
-	"Nom": " ¬ge du ch‚teau",
+	"Nom": " √Çge du ch√¢teau",
 	"Cout": "800 nourritures 200 or",
-	"Description": "Avancer ‡ lí‚ge du ch‚teau"
+	"Description": "Avancer √† l‚Äô√¢ge du ch√¢teau"
 },
 {
-	"Nom": " ¬ge impÈrial",
+	"Nom": " √Çge imp√©rial",
 	"Cout": " 1000 nourritures 800 or",
-	"Description": " Avancer ‡ l'‚ge impÈrial"
+	"Description": " Avancer √† l'√¢ge imp√©rial"
 },
 {
 	"Nom": " Trahison",
 	"Cout": "400 or",
-	"Description": " Voir l' ennemi Kings pendant une courte pÈriode ( RÈgicide seulement)"
+	"Description": " Voir l' ennemi Kings pendant une courte p√©riode ( R√©gicide seulement)"
 },
 {
 	"Nom": "Sappeurs",
 	"Cout": " 400 nourritures 200 or",
-	"Description": " Villages +15 attaques contre les b‚timents"
+	"Description": " Villages +15 attaques contre les b√¢timents"
 },
 {
 	"Nom": " Conscription",
 	"Cout": " 150 nourritures 150 or",
-	"Description": " UnitÈ Vitesse de crÈation ‡ la caserne , portÈe des archers , stable , et Ch‚teau de  -33%"
+	"Description": " Unit√© Vitesse de cr√©ation √† la caserne , port√©e des archers , stable , et Ch√¢teau de  -33%"
 },
 {
 	"Nom": " Espions",
