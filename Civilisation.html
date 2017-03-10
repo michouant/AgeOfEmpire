@@ -43,7 +43,7 @@
 			<h1>Civilisation</h1>
 			</br>
 			<div class ="main" ng-app="store" ng-controller="Civilisation_aoe" >
-				<div ng-repeat="p in myData " >
+				<div ng-repeat="p in myData | filter:test track by $index " >
 					<div class=civ_car>
 					<h2>{{p.Nom}}</h2>
 					<div class=org>
