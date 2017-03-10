@@ -278,7 +278,8 @@
 	"Bonus3civilisation" : "Les navires de pêche ont +2 Line of Sight",
 	"Bonus4civilisation" : "Unités de Gunpowder sont 15% moins cher"
 },
-{
+
+	{
 	"Nom" :"Magyars",
 	"Specialite" :"Cavalerie",
 	"UniteUnique1" : "Magyar Huszar",
