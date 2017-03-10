@@ -10,7 +10,7 @@
 	"Bonus1civilisation" : "Centre Ville coûte 50% moins de bois après avoir atteint l'âge Castle",
 	"Bonus2civilisation" : "Les archers à pied ont une portée de +1/+2 dans le Château / Âge Impérial",
 	"Bonus3civilisation" : "Les bergers travaillent 25% plus vite"
-}
+},
 
 {
 	"Nom" :"Byzantines"
@@ -25,7 +25,7 @@
 	"Bonus3civilisation" : "Navires de feu attaquent 20% plus rapide",
 	"Bonus4civilisation" : "Faire progresser l' époque impériale est 33% moins cher",
 	"Bonus5civilisation" : "Tour de garde est gratuite"
-}
+},
 
 {
 	"Nom" :"Celtes"
@@ -39,7 +39,7 @@
 	"Bonus2civilisation" : "Les bûcherons travaillent 15% plus vite",
 	"Bonus3civilisation" : "Siege armes feu 20% plus rapide",
 	"Bonus4civilisation" : "Herdables au sein de l' unité Celtic de Lign of Sight ne peuvent pas être volés"
-}
+},
 
 {
 	"Nom" :"Chinois"
@@ -53,7 +53,7 @@
 	"Bonus2civilisation" : "Technologies coûtent -10% / - 15% / - 20% dans le Féodal / Château / Imperial Age",
 	"Bonus3civilisation" : "Centre Ville contient 10 personnes au lieu de 5",
 	"Bonus4civilisation" : "Bateaux de démolition ont + 50% HP"
-}
+},
 {
 	"Nom" :"Francs"
 	"Specialite" :"Cavalerie",
@@ -66,7 +66,7 @@
 	"Bonus2civilisation" : "Unités stables ont + 20% HP",
 	"Bonus3civilisation" : "Mise à jour des fermes sont gratuites",
 	"Bonus4civilisation" : "Foreurs travaillent 25% plus rapide"
-}
+},
 {
 	"Nom" :"Goths"
 	"Specialite" :"Infanterie",
@@ -80,7 +80,7 @@
 	"Bonus3civilisation" : "Les villageois ont +5 attaque contre les sangliers",
 	"Bonus4civilisation" : "Les chasseurs transportent +15 aliments",
 	"Bonus5civilisation" : "+10 À la limite de la population dans l' époque impériale"
-}
+},
 {
 	"Nom" :"Japonais"
 	"Specialite" :"Infanterie",
@@ -93,7 +93,7 @@
 	"Bonus2civilisation" : "Les navires de pêche travaillent +5% / + 10% / + 15% / + 20% plus vite dans le Dark / Feudal / Castle / Imperial Age",
 	"Bonus3civilisation" : "Les Camps de bois, les camps miniers , et les moulins sont 50% moins cher",
 	"Bonus4civilisation" : "Infanterie attaque 25% plus vite au départ de Féodal Age"
-}
+},
 {
 	"Nom" :"Mongols"
 	"Specialite" :"Archers de cavalerie",
@@ -105,7 +105,7 @@
 	"Bonus1civilisation" : "Archers de cavalerie tirent 20% plus vite",
 	"Bonus2civilisation" : "Cavalerie légère et Hussars ont + 30% HP",
 	"Bonus3civilisation" : "Les chasseurs travaillent 50% plus vite"
-}
+},
 {
 	"Nom" :"Persans"
 	"Specialite" :"Cavalerie",
@@ -117,7 +117,7 @@
 	"Bonus1civilisation" : "Commencez le jeu avec +50 nourriture et +50 de bois",
 	"Bonus2civilisation" : "Centre Ville et Docks ont 2x HP",
 	"Bonus3civilisation" : "Les centres urbains et les quais fonctionnent +10% / + 15% / + 20% plus vite dans l'époque féodale / château / impériale"
-}
+},
 {
 	"Nom" :"Sarrasins"
 	"Specialite" :"Chameaux et marine",
@@ -131,7 +131,7 @@
 	"Bonus3civilisation" : "Galleys attaque 20% plus vite",
 	"Bonus4civilisation" : "Archers de cavalerie ont +3 attaque contre les bâtiments",
 	"Bonus5civilisation" : "Marchés coûtent -75 bois"
-}
+},
 {
 	"Nom" :"Teutons"
 	"Specialite" :"Infanterie",
@@ -144,7 +144,7 @@
 	"Bonus2civilisation" : "Les tours peuvent garnison 2x des unités",
 	"Bonus3civilisation" : "Trous de meurtre gratuit",
 	"Bonus4civilisation" : "Fermes coûts sont 33% moins cher"
-}
+},
 {
 	"Nom" :"Turcs"
 	"Specialite" :"unités Gunpowder",
@@ -158,7 +158,7 @@
 	"Bonus3civilisation" : "Chimie est gratuit",
 	"Bonus4civilisation" : "Les mineurs d'or travaillent 15% plus vite",
 	"Bonus5civilisation" : "La cavalerie légère et Hussar mises à jour sont gratuites"
-}
+},
 {
 	"Nom" :"Vikings"
 	"Specialite" :"Infanterie et Marine",
@@ -171,7 +171,7 @@
 	"Bonus1civilisation" : "Warships coûtent -10% / - 15% / - 20% dans le Féodal / Château / Imperial Age",
 	"Bonus2civilisation" : "Infanterie a +10% / + 15% / + 20% HP dans le Féodal / Château / Imperial Age",
 	"Bonus3civilisation" : "Brouette et la main panier sont libres"
-}
+},
 {
 	"Nom" :"Aztèques"
 	"Specialite" :"Monks et infanterie",
@@ -184,7 +184,7 @@
 	"Bonus2civilisation" : "Commencez avec +50 or",
 	"Bonus3civilisation" : "Les unités militaires sont créées 15% plus vite",
 	"Bonus4civilisation" : "Les moines gagnent +5 Points de vie pour chaque monastère technologie recherché"
-}
+},
 {
 	"Nom" :"Huns"
 	"Specialite" :"Cavalerie",
@@ -196,7 +196,7 @@
 	"Bonus1civilisation" : "Ne pas besoin de construire de maisons , mais commencer avec -100 bois",
 	"Bonus2civilisation" : "Archers de cavalerie sont -10% / - 20% moins cher dans le château / Imperial Age",
 	"Bonus3civilisation" : "Trébuchets sont 30% plus précis"
-}
+},
 {
 	"Nom" :"Coréens"
 	"Specialite" :"Tours et marine",
@@ -211,7 +211,7 @@
 	"Bonus3civilisation" : "Mises à jour des tours sont gratuites",
 	"Bonus4civilisation" : "Tours (sauf Bombard Towers ) ont + 1 / + 2 gamme dans le château / Imperial Age",
 	"Bonus5civilisation" : "Fortifications ( murs , tours et châteaux ) construits 25% plus rapide"
-}
+},
 {
 	"Nom" :"Mayans"
 	"Specialite" :"Archers",
@@ -224,7 +224,7 @@
 	"Bonus2civilisation" : "Les dernières ressources naturelles tiennent 15% plus longtemps",
 	"Bonus3civilisation" : "Archers sont de 10% / 15% / 20% moins cher dans le Féodal / Château / Imperial Age",
 	"Bonus4civilisation" : "En tant que Native American civilisation, les Mayas ne peut pas former de cavalerie et des unités de poudre à canon. Par conséquent, ils commencent le jeu avec un Eagle Scout ( Aigle Guerrier dans The Conquerors) au lieu d'une cavalerie Scout ."
-}
+},
 {
 	"Nom" :"Espagnol"
 	"Specialite" :"Monks et unités de poudre",
@@ -238,7 +238,7 @@
 	"Bonus2civilisation" : "Mises à jour blacksmith ne coûtent pas d'or",
 	"Bonus3civilisation" : "Cannon galions bénéficier de Balistique (amélioration de la cadence de tir et de précision)",
 	"Bonus4civilisation" : "Unités de Gunpowder feu 15% plus rapide"
-}
+},
 {
 	"Nom" :"Incas"
 	"Specialite" :"Infanterie",
@@ -252,7 +252,7 @@
 	"Bonus2civilisation" : "Les villageois bénéficient de Blacksmith mises à niveau",
 	"Bonus3civilisation" : "Bâtiments coûtent 15% de moins en pierre",
 	"Bonus4civilisation" : "Maisons contiennent 10 population"
-}
+},
 {
 	"Nom" :"Indiens"
 	"Specialite" :"Chameaux et unités de poudre",
@@ -277,7 +277,7 @@
 	"Bonus2civilisation" : "Tous les Dock technologies coûtent -50%",
 	"Bonus3civilisation" : "Les navires de pêche ont +2 Line of Sight",
 	"Bonus4civilisation" : "Unités de Gunpowder sont 15% moins cher"
-}
+},
 {
 	"Nom" :"Magyars"
 	"Specialite" :"Cavalerie",
@@ -289,7 +289,7 @@
 	"Bonus1civilisation" : "Les villageois tuent des loups avec une grève",
 	"Bonus2civilisation" : "Forge , Fonderie de fer , et de hauts - fourneaux sont libres (nécessite Blacksmith )",
 	"Bonus3civilisation" : "Scout cavalerie , cavalerie légère , et Hussars sont 10% moins cher"
-}
+},
 {
 	"Nom" :"Slaves"
 	"Specialite" :"infanterie et des armes de siège",
@@ -301,7 +301,7 @@
 	"Bonus1civilisation" : "Les agriculteurs travaillent 15% plus vite",
 	"Bonus2civilisation" : "Tracking est gratuit",
 	"Bonus3civilisation" : "Les armes de siège sont 15% moins cher"
-}
+},
 {
 	"Nom" :"Berbères"
 	"Specialite" :"Marine et cavalerie",
@@ -313,7 +313,7 @@
 	"Bonus1civilisation" : "Les villageois se déplacent + 10% plus rapide",
 	"Bonus2civilisation" : "Stable unités sont 20% moins chers",
 	"Bonus3civilisation" : "Les navires se déplacent + 10% plus rapide"
-}
+},
 {
 	"Nom" :"Ethiopiens"
 	"Specialite" :"Archers",
@@ -325,7 +325,7 @@
 	"Bonus1civilisation" : "Archers feu 15% plus rapide",
 	"Bonus2civilisation" : "Recevez 100 nourriture et or sur l' âge d' avancement",
 	"Bonus3civilisation" : "Mises à jour de Pikeman et HALBERDIER sont gratuites"
-}
+},
 {
 	"Nom" :"Maliens"
 	"Specialite" :"Infanterie",
@@ -337,7 +337,7 @@
 	"Bonus1civilisation" : "Bâtiments coûtent -15% de bois",
 	"Bonus2civilisation" : "Infantry +1 pierce armure par âge",
 	"Bonus3civilisation" : "Mise à jour des Gold Mining sont gratuites"
-}
+},
 {
 	"Nom" :"Portugais"
 	"Specialite" :"Marine et la poudre à canon unités",
@@ -349,7 +349,7 @@
 	"Bonus1civilisation" : "Toutes les unités coûtent -15% d'or",
 	"Bonus2civilisation" : "Les navires ont + 10% HP",
 	"Bonus3civilisation" : "Peut construire Feitoria dans l' époque impériale"
-}
+},
 {
 	"Nom" :"Birman"
 	"Specialite" :"Monks et éléphants",
@@ -363,7 +363,7 @@
 	"Bonus3civilisation" : "Monastère technologies sont 50% moins cher",
 	"Bonus4civilisation" : "",
 	"Bonus5civilisation" : "",
-}
+},
 {
 	"Nom" :"Khmer"
 	"Specialite" :"armes de siège et les éléphants",
@@ -375,7 +375,7 @@
 	"Bonus1civilisation" : "Aucun bâtiments nécessaires pour passer à la prochaine âge ou pour débloquer d' autres bâtiments",
 	"Bonus2civilisation" : "Bataille Les éléphants sont 15% plus rapide",
 	"Bonus3civilisation" : "Les villageois peuvent garnison Maisons"
-}
+},
 {
 	"Nom" :"Malais"
 	"Specialite" :"Navy",
@@ -388,7 +388,7 @@
 	"Bonus2civilisation" : "Les navires de pêche et pièges à poissons sont 33% moins cher",
 	"Bonus3civilisation" : "Les pièges à poisson fournissent une nourriture illimitée",
 	"Bonus4civilisation" : "Bataille Les éléphants sont 20% moins cher"
-}
+},
 {
 	"Nom" :"Vietnamien"
 	"Specialite" :"Archers",
@@ -400,5 +400,5 @@
 	"Bonus1civilisation" : "Révéler les positions ennemies au début du jeu",
 	"Bonus2civilisation" : "Unités d' archers ont +10% / + 20% / + 30% HP dans le Féodal / Château / Imperial Age",
 	"Bonus3civilisation" : "Conscription est gratuit"
-}
+},
 ]
