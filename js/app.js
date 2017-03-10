@@ -357,16 +357,62 @@ var bat=[
 	},
  ];
 
+ app.controller('Batiment_aoe',[
+	'$scope','$http',
+	function($scope,$http){
+		//$scope!=this;
+		$scope.myData={
+			reviews:[]
+		};
+		
+		$http.get('data/AgeOfEmpireBat.json')
+			.success(function(data){
+				$scope.myData=data;
+			})
+			.error(function(){
+				console.log("error loading AgeOfEmpireBat.json");
+			});
+		
+		return angular.extend($scope, this);
+	}
+]);
 
+ app.controller('Civilisation_aoe',[
+	'$scope','$http',
+	function($scope,$http){
+		//$scope!=this;
+		$scope.myData={
+			reviews:[]
+		};
+		
+		$http.get('data/AgeOfEmpireCivilisations.json')
+			.success(function(data){
+				$scope.myData=data;
+			})
+			.error(function(){
+				console.log("error loading AgeOfEmpireCivilisations.json");
+			});
+		
+		return angular.extend($scope, this);
+	}
+]);
 
-app.controller('Batiment_aoe', function($scope) {
-      $scope.myData = bat;
-});
-
-app.controller('Civilisation_aoe', function($scope) {
-      $scope.myData = civ;
-});
-
-app.controller('Technologie_aoe', function($scope) {
-      $scope.myData = tech;
-});
+ app.controller('Technologie_aoe',[
+	'$scope','$http',
+	function($scope,$http){
+		//$scope!=this;
+		$scope.myData={
+			reviews:[]
+		};
+		
+		$http.get('data/AgeOfEmpireTechnologies.json')
+			.success(function(data){
+				$scope.myData=data;
+			})
+			.error(function(){
+				console.log("error loading AgeOfEmpireTechnologies.json");
+			});
+		
+		return angular.extend($scope, this);
+	}
+]);
