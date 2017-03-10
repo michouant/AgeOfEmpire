@@ -11,6 +11,18 @@
 	"Bonus2civilisation" : "Les archers à pied ont une portée de +1/+2 dans le Château / Âge Impérial",
 	"Bonus3civilisation" : "Les bergers travaillent 25% plus vite"
 },
+	{
+	"Nom" :"Magyars",
+	"Specialite" :"Cavalerie",
+	"UniteUnique1" : "Magyar Huszar",
+	"Technologie1" : "Mercenaires",
+	"Technologie2" : "Arc récurrent",
+	"Merveille" : "Castle Hunyad",
+	"BonusEquipe" : "archers à pied ont +2 Line of Sight",
+	"Bonus1civilisation" : "Les villageois tuent des loups avec une grève",
+	"Bonus2civilisation" : "Forge , Fonderie de fer , et de hauts - fourneaux sont libres (nécessite Blacksmith )",
+	"Bonus3civilisation" : "Scout cavalerie , cavalerie légère , et Hussars sont 10% moins cher"
+},
 
 {
 	"Nom" :"Byzantines",
