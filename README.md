@@ -13,3 +13,5 @@ Le site se décompose en 5 parties:
 - La page Unité qui regroupe les informations concernant les unités jouable.
 - La page Batiment qui renseigne les fonctions et le prix des batiments.
 - La page Technologies qui décrit l'effet des technologies ainsi que leurs prix.
+
+test civi
