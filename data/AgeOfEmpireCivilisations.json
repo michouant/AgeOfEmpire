@@ -278,19 +278,6 @@
 	"Bonus3civilisation" : "Les navires de pêche ont +2 Line of Sight",
 	"Bonus4civilisation" : "Unités de Gunpowder sont 15% moins cher"
 },
-
-	{
-	"Nom" :"Magyars",
-	"Specialite" :"Cavalerie",
-	"UniteUnique1" : "Magyar Huszar",
-	"Technologie1" : "Mercenaires",
-	"Technologie2" : "Arc récurrent",
-	"Merveille" : "Castle Hunyad",
-	"BonusEquipe" : "archers à pied ont +2 Line of Sight",
-	"Bonus1civilisation" : "Les villageois tuent des loups avec une grève",
-	"Bonus2civilisation" : "Forge , Fonderie de fer , et de hauts - fourneaux sont libres (nécessite Blacksmith )",
-	"Bonus3civilisation" : "Scout cavalerie , cavalerie légère , et Hussars sont 10% moins cher"
-},
 {
 	"Nom" :"Slaves",
 	"Specialite" :"infanterie et des armes de siège",
