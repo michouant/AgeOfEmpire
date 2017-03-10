@@ -3,13 +3,26 @@
 
 var app = angular.module('store', []);
 
-app.controller('Unit_aoe', function($scope, $http) {
-  $http.get('data/AgeOfEmpireUnit.json')
-	.then(function (response) {
-      $scope.myData = response.nom;
-  });
-});
 
+ app.controller('Unit_aoe',[
+	'$scope','$http',
+	function($scope,$http){
+		//$scope!=this;
+		$scope.myData={
+			reviews:[]
+		};
+		
+		$http.get('data/AgeOfEmpireUnit.json')
+			.success(function(data){
+				$scope.myData=data;
+			})
+			.error(function(){
+				console.log("error loading AgeOfEmpireUnit.json");
+			});
+		
+		return angular.extend($scope, this);
+	}
+]);
 
 var unit=[
    {
