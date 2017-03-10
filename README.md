@@ -14,4 +14,4 @@ Le site se décompose en 5 parties:
 - La page Batiment qui renseigne les fonctions et le prix des batiments.
 - La page Technologies qui décrit l'effet des technologies ainsi que leurs prix.
 
-test json civ 6
+test json civ 7
