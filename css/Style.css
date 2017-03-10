@@ -64,6 +64,11 @@ body {
 }
 /*----------------------SECTION---------------------*/
 
+.vid{
+	text-align:center;
+	margin:1em 1em 0px 0px;
+}
+
 section {
 	margin:1em 1em 0px 0px;
     width:95%;
