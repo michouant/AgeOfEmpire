@@ -1,6 +1,6 @@
 # AgeOfEmpire
 
-Le site Age of eEmpire est créé dans le cadre du Projet de Web Design de l'EPF par le binome MICHEL Antoine et LI Nicolas.
+Le site Age of Empire est créé dans le cadre du Projet de Web Design de l'EPF par le binome MICHEL Antoine et LI Nicolas.
 
 Ce site regroupe toutes les informations pouvant être utile concernant le jeu Age of empire II : Age of Kings.
 
