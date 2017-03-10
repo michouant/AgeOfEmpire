@@ -1,6 +1,6 @@
 [
 {
-	"Nom" :"Britanniques"
+	"Nom" :"Britanniques",
 	"Specialite" : "Archers à pied",
 	"UniteUnique1" : "Longbowman",
 	"Technologie1" : "Yeomen",
@@ -13,7 +13,7 @@
 },
 
 {
-	"Nom" :"Byzantines"
+	"Nom" :"Byzantines",
 	"Specialite" :"Défense",
 	"UniteUnique1" : "Cataphract",
 	"Technologie1" : "Feu grec",
@@ -28,7 +28,7 @@
 },
 
 {
-	"Nom" :"Celtes"
+	"Nom" :"Celtes",
 	"Specialite" :"Infanterie",
 	"UniteUnique1" : "Woad Raider",
 	"Technologie1" : "Stronghold",
@@ -42,7 +42,7 @@
 },
 
 {
-	"Nom" :"Chinois"
+	"Nom" :"Chinois",
 	"Specialite" :"Archers",
 	"UniteUnique1" : "Chu Ko Nu",
 	"Technologie1" : "Great Wall",
@@ -55,7 +55,7 @@
 	"Bonus4civilisation" : "Bateaux de démolition ont + 50% HP"
 },
 {
-	"Nom" :"Francs"
+	"Nom" :"Francs",
 	"Specialite" :"Cavalerie",
 	"UniteUnique1" : "Throwing Axeman",
 	"Technologie1" : "Chivalry",
@@ -68,7 +68,7 @@
 	"Bonus4civilisation" : "Foreurs travaillent 25% plus rapide"
 },
 {
-	"Nom" :"Goths"
+	"Nom" :"Goths",
 	"Specialite" :"Infanterie",
 	"UniteUnique1" : "Huskari",
 	"Technologie1" : "Anarchy",
@@ -82,7 +82,7 @@
 	"Bonus5civilisation" : "+10 À la limite de la population dans l' époque impériale"
 },
 {
-	"Nom" :"Japonais"
+	"Nom" :"Japonais",
 	"Specialite" :"Infanterie",
 	"UniteUnique1" : "Samouraï",
 	"Technologie1" : "Yasama",
@@ -95,7 +95,7 @@
 	"Bonus4civilisation" : "Infanterie attaque 25% plus vite au départ de Féodal Age"
 },
 {
-	"Nom" :"Mongols"
+	"Nom" :"Mongols",
 	"Specialite" :"Archers de cavalerie",
 	"UniteUnique1" : "Mangudai",
 	"Technologie1" : "Nomads",
@@ -107,7 +107,7 @@
 	"Bonus3civilisation" : "Les chasseurs travaillent 50% plus vite"
 },
 {
-	"Nom" :"Persans"
+	"Nom" :"Persans",
 	"Specialite" :"Cavalerie",
 	"UniteUnique1" : "Éléphant de guerre",
 	"Technologie1" : "Huile bouillante",
@@ -119,7 +119,7 @@
 	"Bonus3civilisation" : "Les centres urbains et les quais fonctionnent +10% / + 15% / + 20% plus vite dans l'époque féodale / château / impériale"
 },
 {
-	"Nom" :"Sarrasins"
+	"Nom" :"Sarrasins",
 	"Specialite" :"Chameaux et marine",
 	"UniteUnique1" : "Mameluke",
 	"Technologie1" : "Médersa",
@@ -133,7 +133,7 @@
 	"Bonus5civilisation" : "Marchés coûtent -75 bois"
 },
 {
-	"Nom" :"Teutons"
+	"Nom" :"Teutons",
 	"Specialite" :"Infanterie",
 	"UniteUnique1" : "Chevalier Teutonique",
 	"Technologie1" : "Ironclad",
@@ -146,7 +146,7 @@
 	"Bonus4civilisation" : "Fermes coûts sont 33% moins cher"
 },
 {
-	"Nom" :"Turcs"
+	"Nom" :"Turcs",
 	"Specialite" :"unités Gunpowder",
 	"UniteUnique1" : "Janissaire",
 	"Technologie1" : " Sipahi",
@@ -160,7 +160,7 @@
 	"Bonus5civilisation" : "La cavalerie légère et Hussar mises à jour sont gratuites"
 },
 {
-	"Nom" :"Vikings"
+	"Nom" :"Vikings",
 	"Specialite" :"Infanterie et Marine",
 	"UniteUnique1" : "Fou furieux",
 	"UniteUnique2" : "Longboat",
@@ -173,7 +173,7 @@
 	"Bonus3civilisation" : "Brouette et la main panier sont libres"
 },
 {
-	"Nom" :"Aztèques"
+	"Nom" :"Aztèques",
 	"Specialite" :"Monks et infanterie",
 	"UniteUnique1" : "Guerrier Jaguar",
 	"Technologie1" : "Atlatl",
@@ -186,7 +186,7 @@
 	"Bonus4civilisation" : "Les moines gagnent +5 Points de vie pour chaque monastère technologie recherché"
 },
 {
-	"Nom" :"Huns"
+	"Nom" :"Huns",
 	"Specialite" :"Cavalerie",
 	"UniteUnique1" : "Tarkan",
 	"Technologie1" : "Marauders",
@@ -198,7 +198,7 @@
 	"Bonus3civilisation" : "Trébuchets sont 30% plus précis"
 },
 {
-	"Nom" :"Coréens"
+	"Nom" :"Coréens",
 	"Specialite" :"Tours et marine",
 	"UniteUnique1" : "Wagon de guerre",
 	"UniteUnique2" : "Bateau de tortue",
@@ -213,7 +213,7 @@
 	"Bonus5civilisation" : "Fortifications ( murs , tours et châteaux ) construits 25% plus rapide"
 },
 {
-	"Nom" :"Mayans"
+	"Nom" :"Mayans",
 	"Specialite" :"Archers",
 	"UniteUnique1" : "Plumed Archer",
 	"Technologie1" : "Flèches d' obsidienne",
@@ -226,7 +226,7 @@
 	"Bonus4civilisation" : "En tant que Native American civilisation, les Mayas ne peut pas former de cavalerie et des unités de poudre à canon. Par conséquent, ils commencent le jeu avec un Eagle Scout ( Aigle Guerrier dans The Conquerors) au lieu d'une cavalerie Scout ."
 },
 {
-	"Nom" :"Espagnol"
+	"Nom" :"Espagnol",
 	"Specialite" :"Monks et unités de poudre",
 	"UniteUnique1" : "Conquistador",
 	"UniteUnique2" : "Missionnaire",
@@ -240,7 +240,7 @@
 	"Bonus4civilisation" : "Unités de Gunpowder feu 15% plus rapide"
 },
 {
-	"Nom" :"Incas"
+	"Nom" :"Incas",
 	"Specialite" :"Infanterie",
 	"UniteUnique1" : "Kamayuk",
 	"UniteUnique2" : "Slinger",
@@ -254,7 +254,7 @@
 	"Bonus4civilisation" : "Maisons contiennent 10 population"
 },
 {
-	"Nom" :"Indiens"
+	"Nom" :"Indiens",
 	"Specialite" :"Chameaux et unités de poudre",
 	"UniteUnique1" : "Elephant Archer",
 	"UniteUnique2" : "Chameau Impérial",
@@ -266,7 +266,7 @@
 	"Bonus2civilisation" : "Les pêcheurs travaillent 15% plus vite et transportent +15 aliments",
 	"Bonus3civilisation" : "Chameaux ont + 1 / + 1 armure"
 {
-	"Nom" :"Italiens"
+	"Nom" :"Italiens",
 	"Specialite" :"Marine et archers",
 	"UniteUnique1" : "Arbalète génois",
 	"Technologie1" : "Pavise",
@@ -279,7 +279,7 @@
 	"Bonus4civilisation" : "Unités de Gunpowder sont 15% moins cher"
 },
 {
-	"Nom" :"Magyars"
+	"Nom" :"Magyars",
 	"Specialite" :"Cavalerie",
 	"UniteUnique1" : "Magyar Huszar",
 	"Technologie1" : "Mercenaires",
@@ -291,7 +291,7 @@
 	"Bonus3civilisation" : "Scout cavalerie , cavalerie légère , et Hussars sont 10% moins cher"
 },
 {
-	"Nom" :"Slaves"
+	"Nom" :"Slaves",
 	"Specialite" :"infanterie et des armes de siège",
 	"UniteUnique1" : "Boyar",
 	"Technologie1" : "Orthodoxie",
@@ -303,7 +303,7 @@
 	"Bonus3civilisation" : "Les armes de siège sont 15% moins cher"
 },
 {
-	"Nom" :"Berbères"
+	"Nom" :"Berbères",
 	"Specialite" :"Marine et cavalerie",
 	"UniteUnique1" : "Camel Archer",
 	"Technologie1" : "Kasbah",
@@ -315,7 +315,7 @@
 	"Bonus3civilisation" : "Les navires se déplacent + 10% plus rapide"
 },
 {
-	"Nom" :"Ethiopiens"
+	"Nom" :"Ethiopiens",
 	"Specialite" :"Archers",
 	"UniteUnique1" : "Shotel Guerrier",
 	"Technologie1" : "Héritiers royaux",
@@ -327,7 +327,7 @@
 	"Bonus3civilisation" : "Mises à jour de Pikeman et HALBERDIER sont gratuites"
 },
 {
-	"Nom" :"Maliens"
+	"Nom" :"Maliens",
 	"Specialite" :"Infanterie",
 	"UniteUnique1" : "Gbeto",
 	"Technologie1" : "Tigui",
@@ -339,7 +339,7 @@
 	"Bonus3civilisation" : "Mise à jour des Gold Mining sont gratuites"
 },
 {
-	"Nom" :"Portugais"
+	"Nom" :"Portugais",
 	"Specialite" :"Marine et la poudre à canon unités",
 	"UniteUnique1" : "Pistolet d'organe",
 	"Technologie1" : "Carrack",
@@ -351,7 +351,7 @@
 	"Bonus3civilisation" : "Peut construire Feitoria dans l' époque impériale"
 },
 {
-	"Nom" :"Birman"
+	"Nom" :"Birman",
 	"Specialite" :"Monks et éléphants",
 	"UniteUnique1" : "Arambai",
 	"Technologie1" : "Howdah",
@@ -365,7 +365,7 @@
 	"Bonus5civilisation" : "",
 },
 {
-	"Nom" :"Khmer"
+	"Nom" :"Khmer",
 	"Specialite" :"armes de siège et les éléphants",
 	"UniteUnique1" : "Éléphant Ballista",
 	"Technologie1" : "Epées de museau",
@@ -377,7 +377,7 @@
 	"Bonus3civilisation" : "Les villageois peuvent garnison Maisons"
 },
 {
-	"Nom" :"Malais"
+	"Nom" :"Malais",
 	"Specialite" :"Navy",
 	"UniteUnique1" : "Guerrier Karambit",
 	"Technologie1" : "Thalassocratie",
@@ -390,7 +390,7 @@
 	"Bonus4civilisation" : "Bataille Les éléphants sont 20% moins cher"
 },
 {
-	"Nom" :"Vietnamien"
+	"Nom" :"Vietnamien",
 	"Specialite" :"Archers",
 	"UniteUnique1" : "Archer en rotin",
 	"Technologie1" : "Chatras",
