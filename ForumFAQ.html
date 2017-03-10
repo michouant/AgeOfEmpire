@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+
+<head>
+	<link rel="stylesheet" href="css/Style.css">
+	<title>Age of Empire 2</title>
+	
+		    <!--  fichier css -->
+
+		<link rel="stylesheet" href="css/Style.css">
+		<link rel="stylesheet" href="css/forum.css">
+		
+        <!--  fichier js -->
+		<script type="text/javascript" src="js/angular.js"></script>
+		<script type='text/javascript' src="js/jquery.min.js"></script>
+		<script type='text/javascript' src="js/script.js"></script>
+		<script type="text/javascript" src="js/forum_app.js"></script>
+		<script type="text/javascript" src="js/angular-route.js"></script>
+
+</head>
+
+<body>
+		<header>
+		
+		<img src="image/HD-edition.jpg" alt="Age of Empires 2" height=400px width=100%>
+		
+		<nav class=menu>
+			<ul>
+				<li><a href="Accueil.html">Accueil</a></li>
+				<li><a href="Civilisation.html">Civilisation</a></li>
+				<li><a href="Unité.html">Unité</a></li>
+				<li><a href="Batîment.html">Batîment</a></li>
+				<li><a href="Technologie.html">Technologie</a></li>
+				<li class=current-item><a href="#">Forum/FAQ</a></li>
+			</ul>
+		</nav>	
+		
+		</header>
+		
+		<section>
+			</br></br><p  align="center"><img src="image/cuillere.png" alt="cuillere" height=50% width=60% style="text-align:center" ></p></br>
+			<p>Ici, Monseigneur, on parle peu mais on parle Bien!</p>
+			</br>
+			
+			
+				<div ng-controller="storeController as store">  
+					<div ng-controller="ReviewController as reviewCtrl"> 
+					<h3>Forum de discussion sur les unités</h3>
+					<h4> Veuillez choisir le type d'unité, votre adresse email, et votre commentaire.</h4>
+						<form name = "reviewForm" ng-submit="reviewCtrl.addReview(store.product)" novalidate>
+						
+						<!-- Barre de choix pour le type d'unité sur lequel portera le commentaire -->
+							<select ng-model="reviewCtrl.review.type" required>
+								<option value ="Infanterie">Infanterie</option>
+								<option value ="Archer">Archer</option>
+								<option value ="Navire">Navire</option>
+								<option value ="Unité à cheval">Cavalerie</option>
+								<option value ="Autre">Autre</option>
+							</select><br/>
+					<!-- Email de l'utilisateur -->
+							<input ng-model="reviewCtrl.review.author" type="email" required ><br/>
+					<!-- Le Commentaire -->
+							<textarea  ng-model="reviewCtrl.review.body" required>
+							</textarea><br/>
+							
+							<!-- le bouton -->
+							<input type="submit" value="Valider"/>
+						</form>
+					</div>
+					<div class="review_line" ng-repeat="review in store.product.reviews">
+						 <br/>
+						 <!-- Affichage du Commentaire -->
+						<strong>{{review.createdOn | date }}</strong> : Auteur: {{review.author}}<br/>
+						 Type: {{ review.type }}<br/>
+						 Commentaire: {{ review.body }}<br/>
+						 ----------------------------------------------------------------------------------
+					</div>
+				</div>
+			
+			
+			
+		</section>
+		
+		<footer>
+		</br>
+			<p>Toutes données trouvées sont en libre accès. Nous ne sommes en aucun cas les propriétaires des données présentées sur ce site.</p>
+		</br>
+		</footer>
+
+
+</body>
