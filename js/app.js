@@ -52,12 +52,12 @@ var app = angular.module('store', []);
 			reviews:[]
 		};
 		
-		$http.get('data/AgeOfEmpireCivilisations.json')
+		$http.get('data/AgeOfEmpireCiv.json')
 			.success(function(data){
 				$scope.myData=data;
 			})
 			.error(function(){
-				console.log("error loading AgeOfEmpireCivilisations.json");
+				console.log("error loading AgeOfEmpireCiv.json");
 			});
 		
 		return angular.extend($scope, this);
